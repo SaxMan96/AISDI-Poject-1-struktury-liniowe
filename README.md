@@ -1,1 +1,0 @@
-# AISDI-Poject-1-struktury-liniowe
